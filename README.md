@@ -6,6 +6,8 @@ Tengo 20 años y desde pequeño me intereso el mundo de la tecnología lo cual h
 
 Linkedin: https://www.linkedin.com/in/ezequiel-men%C3%A9ndez-888381218/
 
+Gmail: ezemenendez2003@gmail.com
+
 ## Objetivos
 Mi objetivo es generar un impacto y grandes aportes al mundo del codigo.
 
