@@ -31,3 +31,7 @@ Otras tecnologias que conozco por otros cursos son:
 Incluyendo tambien HTML y CSS
 
 Conosco otras herramientas como Wordpress
+
+Idiomas:
+- Español Nativo
+- Ingles A2
