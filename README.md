@@ -32,6 +32,9 @@ Incluyendo también HTML y CSS.
 
 Conozco otras herramientas como WordPress.
 
+Portfolio:
+https://portfolio-e-m-fwg9.vercel.app/
+
 Idiomas:
 - Español nativo
 - Inglés A2
