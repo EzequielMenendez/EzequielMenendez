@@ -16,7 +16,6 @@ Lo que más me apasiona de la programación y lo que me motiva a seguir adelante
 ## ¿Qué tecnologías uso? 👨‍💻
 Mis principales tecnologías y con las que me siento más cómodo son las aprendidas en el bootcamp de Henry, las cuales son:
 - JavaScript 
-- TypeScript
 - React.js
 - Node.js
 - Express.js
@@ -25,6 +24,7 @@ Mis principales tecnologías y con las que me siento más cómodo son las aprend
 - GIT
 
 Otras tecnologías que conozco por otros cursos son:
+- TypeScript
 - PHP
 - MySQL
 - Codeigniter 3
