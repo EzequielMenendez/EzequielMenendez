@@ -26,6 +26,7 @@ Mis principales tecnologías y con las que me siento más cómodo son las aprend
 Otras tecnologías que conozco por otros cursos son:
 - TypeScript
 - MongoDB
+- Next.js
 - PHP
 - MySQL
 - Codeigniter 3
